@@ -1,4 +1,4 @@
-# shape2geojson
+# shape to geoJSON converter
 Convert shape files to geoJSON:
 - Put complete shape files (prj, dbf and cpg) in the *shp* directory
 - Run the python script
